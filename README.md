@@ -8,6 +8,7 @@
 
 ```markdown
 Technologies that have been used while developing the project.
+- Bootstrap 3.3.7
 - PHP 5.6
 - MySQL 5.6
 
